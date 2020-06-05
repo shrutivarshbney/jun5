@@ -1,0 +1,33 @@
+Access Modifiers (Variables, methods, classes)
+public - Least restrictive access - Everyone can access
+private - most restrictive access - No one except the owner can use
+package private - it can be used by items in same package -> Default
+*********************************
+protected - Specific to inheritance -> Child classes can access items form parent classes
+
+***************************************************************
+Encapsulation - To Encapsulate -> To protect
+===================================================================
+Constructor -> Process or Method
+Syntax of Constructor
+It does not have return type
+name of the constructor must be same as Class
+**********************************************
+this keyword -> reserved -> Refer to the current object
+to avoid conflicts in variable names
+===========================================================
+Rectangle Class -> properties -> getArea(), getCircumfarence()
+Constructors - Default, one which takes length, width
+Getters/Setters
+Use this key word
+===================================================================
+Method Overloading -> Same method name -> Have different implementation
+1. name of the method is same
+2. both methods must have either
+	2.1 different number of arguments
+	2.2 One of the arguments must have different data types
+
+
+
+
+
